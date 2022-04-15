@@ -1,0 +1,661 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649997098619,614,https://api.demoblaze.com/login,200,OK,invalid_user 4-3,text,true,,253,438,12,28,https://api.demoblaze.com/login,614,0,288
+1649997098571,674,https://api.demoblaze.com/login,200,OK,invalid_user 4-2,text,true,,253,436,12,29,https://api.demoblaze.com/login,674,0,333
+1649997098497,814,https://api.demoblaze.com/login,200,OK,invalid_user 4-1,text,true,,253,436,13,31,https://api.demoblaze.com/login,814,0,408
+1649997098694,626,https://api.demoblaze.com/login,200,OK,invalid_user 4-4,text,true,,253,438,13,31,https://api.demoblaze.com/login,626,0,213
+1649997098497,828,https://api.demoblaze.com/login,200,OK,Login_users 3-1,text,true,,252,449,1,31,https://api.demoblaze.com/login,828,0,407
+1649997098814,526,https://api.demoblaze.com/login,200,OK,invalid_user 4-6,text,true,,253,438,13,31,https://api.demoblaze.com/login,526,0,178
+1649997098758,603,https://api.demoblaze.com/login,200,OK,invalid_user 4-5,text,true,,253,438,14,32,https://api.demoblaze.com/login,603,0,177
+1649997098882,551,https://api.demoblaze.com/login,200,OK,invalid_user 4-7,text,true,,253,436,15,34,https://api.demoblaze.com/login,551,0,203
+1649997098950,487,https://api.demoblaze.com/login,200,OK,invalid_user 4-8,text,true,,253,436,15,34,https://api.demoblaze.com/login,487,0,162
+1649997099020,523,https://api.demoblaze.com/login,200,OK,invalid_user 4-9,text,true,,253,436,15,35,https://api.demoblaze.com/login,523,0,182
+1649997099082,512,https://api.demoblaze.com/login,200,OK,invalid_user 4-10,text,true,,253,436,15,35,https://api.demoblaze.com/login,512,0,180
+1649997099150,507,https://api.demoblaze.com/login,200,OK,invalid_user 4-11,text,true,,253,436,15,35,https://api.demoblaze.com/login,507,0,173
+1649997099233,506,https://api.demoblaze.com/login,200,OK,invalid_user 4-12,text,true,,253,438,15,35,https://api.demoblaze.com/login,505,0,172
+1649997099299,493,https://api.demoblaze.com/login,200,OK,invalid_user 4-13,text,true,,253,438,15,35,https://api.demoblaze.com/login,493,0,172
+1649997099357,592,https://api.demoblaze.com/login,200,OK,invalid_user 4-14,text,true,,253,438,15,35,https://api.demoblaze.com/login,592,0,245
+1649997099433,552,https://api.demoblaze.com/login,200,OK,invalid_user 4-15,text,true,,253,438,15,35,https://api.demoblaze.com/login,552,0,182
+1649997099439,1778,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-8,text,true,,450743,8474,15,35,https://www.demoblaze.com/index.html,302,0,194
+1649997099439,309,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-8,text,true,,5101,513,15,35,https://www.demoblaze.com/index.html,302,0,194
+1649997099752,114,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-8,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,113,0,0
+1649997099755,646,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-8,text,true,,28408,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,532,0,199
+1649997099755,345,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-8,text,true,,12298,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,318,0,196
+1649997099757,308,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-8,text,true,,1357,520,15,35,https://www.demoblaze.com/css/latofonts.css,308,0,194
+1649997099761,305,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-8,text,true,,859,520,15,35,https://www.demoblaze.com/css/latostyle.css,304,0,190
+1649997099758,291,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-8,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,284,0,170
+1649997099866,385,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-8,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,326,0,0
+1649997100050,464,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-8,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,352,0,0
+1649997100066,511,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-8,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,336,0,0
+1649997100067,280,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-8,text,true,,35871,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,184,0,0
+1649997100107,898,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-8,text,true,,160024,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,542,0,0
+1649997100252,470,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-8,text,true,,72699,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,292,0,0
+1649997100348,869,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-8,text,true,,9199,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,868,0,703
+1649997100407,739,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-8,text,true,,15666,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,692,0,526
+1649997100516,416,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-8,text,true,,2797,514,15,35,https://www.demoblaze.com/js/index.js,416,0,0
+1649997099312,1952,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-1,text,true,,451249,8474,15,35,https://www.demoblaze.com/index.html,280,0,175
+1649997099312,291,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-1,text,true,,5257,513,15,35,https://www.demoblaze.com/index.html,280,0,175
+1649997099611,342,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-1,bin,true,,5500,514,15,35,https://www.demoblaze.com/favicon.ico,339,0,0
+1649997099615,555,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-1,text,true,,28460,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,483,0,169
+1649997099615,531,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-1,text,true,,12350,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,485,0,161
+1649997099612,486,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-1,text,true,,1224,520,15,35,https://www.demoblaze.com/css/latofonts.css,485,0,167
+1649997099614,519,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-1,text,true,,863,520,15,35,https://www.demoblaze.com/css/latostyle.css,519,0,180
+1649997099614,535,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-1,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,535,0,182
+1649997099953,193,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-1,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,113,0,0
+1649997100100,936,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-1,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,790,0,370
+1649997100137,793,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-1,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,627,0,373
+1649997100159,242,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-1,text,true,,35919,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,130,0,0
+1649997100148,616,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-1,text,true,,160244,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,359,0,0
+1649997100150,852,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-1,text,true,,72862,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,361,0,0
+1649997100276,988,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-1,text,true,,9269,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,941,0,787
+1649997100406,443,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-1,text,true,,15472,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,440,0,0
+1649997100765,166,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-1,text,true,,2848,514,15,35,https://www.demoblaze.com/js/index.js,166,0,0
+1649997099326,1941,https://www.demoblaze.com/index.html,200,OK,Login_users 3-1,text,true,,451988,8474,1,35,https://www.demoblaze.com/index.html,466,0,160
+1649997098517,2748,https://www.demoblaze.com/prod.html?idp_=1,200,OK,Add_to_cart 5-1,text,true,,371201,6937,1,35,https://www.demoblaze.com/prod.html?idp_=1,789,0,399
+1649997099326,472,https://www.demoblaze.com/index.html-0,200,OK,Login_users 3-1,text,true,,5119,513,1,35,https://www.demoblaze.com/index.html,466,0,160
+1649997099805,342,https://www.demoblaze.com/index.html-1,200,OK,Login_users 3-1,bin,true,,5500,514,1,35,https://www.demoblaze.com/favicon.ico,342,0,0
+1649997098517,846,https://www.demoblaze.com/prod.html?idp_=1-0,200,OK,Add_to_cart 5-1,text,true,,22089,519,1,35,https://www.demoblaze.com/prod.html?idp_=1,789,0,399
+1649997099807,378,https://www.demoblaze.com/index.html-2,200,OK,Login_users 3-1,text,true,,28984,552,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,295,0,179
+1649997099379,340,https://www.demoblaze.com/prod.html?idp_=1-1,200,OK,Add_to_cart 5-1,bin,true,,5500,514,1,35,https://www.demoblaze.com/favicon.ico,339,0,0
+1649997099808,333,https://www.demoblaze.com/index.html-3,200,OK,Login_users 3-1,text,true,,12414,546,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,299,0,179
+1649997099379,398,https://www.demoblaze.com/prod.html?idp_=1-2,200,OK,Add_to_cart 5-1,text,true,,28173,552,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,335,0,222
+1649997099806,540,https://www.demoblaze.com/index.html-4,200,OK,Login_users 3-1,text,true,,1262,520,1,35,https://www.demoblaze.com/css/latofonts.css,540,0,183
+1649997099379,574,https://www.demoblaze.com/prod.html?idp_=1-3,200,OK,Add_to_cart 5-1,text,true,,12499,546,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,568,0,222
+1649997099807,325,https://www.demoblaze.com/index.html-5,200,OK,Login_users 3-1,text,true,,1023,520,1,35,https://www.demoblaze.com/css/latostyle.css,325,0,181
+1649997099382,566,https://www.demoblaze.com/prod.html?idp_=1-4,200,OK,Add_to_cart 5-1,text,true,,1387,520,1,35,https://www.demoblaze.com/css/latofonts.css,566,0,216
+1649997099809,346,https://www.demoblaze.com/index.html-6,200,OK,Login_users 3-1,bin,true,,4263,509,1,35,https://www.demoblaze.com/bm.png,346,0,201
+1649997099385,563,https://www.demoblaze.com/prod.html?idp_=1-5,200,OK,Add_to_cart 5-1,text,true,,1046,520,1,35,https://www.demoblaze.com/css/latostyle.css,563,0,216
+1649997100137,793,https://www.demoblaze.com/index.html-7,200,OK,Login_users 3-1,bin,true,,27679,515,1,35,https://www.demoblaze.com/Samsung1.jpg,627,0,373
+1649997099388,557,https://www.demoblaze.com/prod.html?idp_=1-6,200,OK,Add_to_cart 5-1,bin,true,,4263,509,1,35,https://www.demoblaze.com/bm.png,530,0,213
+1649997100154,247,https://www.demoblaze.com/index.html-8,200,OK,Login_users 3-1,bin,true,,34140,513,1,35,https://www.demoblaze.com/nexus1.jpg,134,0,0
+1649997099719,346,https://www.demoblaze.com/prod.html?idp_=1-7,200,OK,Add_to_cart 5-1,text,true,,35820,541,1,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,316,0,0
+1649997100147,694,https://www.demoblaze.com/index.html-9,200,OK,Login_users 3-1,bin,true,,34899,514,1,35,https://www.demoblaze.com/iphone1.jpg,365,0,0
+1649997100025,1240,https://www.demoblaze.com/prod.html?idp_=1-8,200,OK,Add_to_cart 5-1,text,true,,160246,542,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,696,0,447
+1649997100164,844,https://www.demoblaze.com/index.html-10,200,OK,Login_users 3-1,text,true,,35692,541,1,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,385,0,0
+1649997099962,545,https://www.demoblaze.com/prod.html?idp_=1-9,200,OK,Add_to_cart 5-1,text,true,,72481,567,1,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,353,0,0
+1649997100276,806,https://www.demoblaze.com/index.html-11,200,OK,Login_users 3-1,text,true,,160807,542,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,564,0,0
+1649997099967,378,https://www.demoblaze.com/prod.html?idp_=1-10,200,OK,Add_to_cart 5-1,text,true,,9129,544,1,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,348,0,0
+1649997099980,633,https://www.demoblaze.com/prod.html?idp_=1-11,200,OK,Add_to_cart 5-1,text,true,,15649,550,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,632,0,231
+1649997100347,794,https://www.demoblaze.com/index.html-12,200,OK,Login_users 3-1,text,true,,72560,567,1,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,541,0,312
+1649997100066,824,https://www.demoblaze.com/prod.html?idp_=1-12,200,OK,Add_to_cart 5-1,text,true,,2919,513,1,35,https://www.demoblaze.com/js/prod.js,822,0,401
+1649997100407,442,https://www.demoblaze.com/index.html-13,200,OK,Login_users 3-1,text,true,,9251,544,1,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,439,0,0
+1649997100841,194,https://www.demoblaze.com/index.html-14,200,OK,Login_users 3-1,text,true,,15469,550,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,193,0,0
+1649997100850,417,https://www.demoblaze.com/index.html-15,200,OK,Login_users 3-1,text,true,,2926,514,1,35,https://www.demoblaze.com/js/index.js,417,0,0
+1649997098528,2780,https://www.demoblaze.com/,200,OK,Home 1-1,text,true,,465389,8464,1,35,https://www.demoblaze.com/,755,0,376
+1649997098528,818,https://www.demoblaze.com/-0,200,OK,Home 1-1,text,true,,19934,503,1,35,https://www.demoblaze.com/,755,0,376
+1649997099366,583,https://www.demoblaze.com/-1,200,OK,Home 1-1,bin,true,,5500,514,1,35,https://www.demoblaze.com/favicon.ico,583,0,225
+1649997099359,640,https://www.demoblaze.com/-2,200,OK,Home 1-1,text,true,,28337,552,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,560,0,242
+1649997099374,575,https://www.demoblaze.com/-3,200,OK,Home 1-1,text,true,,12556,546,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,556,0,232
+1649997099359,317,https://www.demoblaze.com/-4,200,OK,Home 1-1,text,true,,1286,520,1,35,https://www.demoblaze.com/css/latofonts.css,317,0,0
+1649997099361,559,https://www.demoblaze.com/-5,200,OK,Home 1-1,text,true,,893,520,1,35,https://www.demoblaze.com/css/latostyle.css,559,0,234
+1649997099377,538,https://www.demoblaze.com/-6,200,OK,Home 1-1,bin,true,,4263,509,1,35,https://www.demoblaze.com/bm.png,512,0,212
+1649997099920,179,https://www.demoblaze.com/-7,200,OK,Home 1-1,bin,true,,27679,515,1,35,https://www.demoblaze.com/Samsung1.jpg,113,0,0
+1649997099943,862,https://www.demoblaze.com/-8,200,OK,Home 1-1,bin,true,,34140,513,1,35,https://www.demoblaze.com/nexus1.jpg,570,0,215
+1649997100002,1032,https://www.demoblaze.com/-9,200,OK,Home 1-1,bin,true,,34899,514,1,35,https://www.demoblaze.com/iphone1.jpg,720,0,472
+1649997100003,1119,https://www.demoblaze.com/-10,200,OK,Home 1-1,text,true,,35813,541,1,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,1001,0,799
+1649997099980,1131,https://www.demoblaze.com/-11,200,OK,Home 1-1,text,true,,159756,542,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,564,0,197
+1649997100100,983,https://www.demoblaze.com/-12,200,OK,Home 1-1,text,true,,72745,567,1,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,706,0,277
+1649997100276,612,https://www.demoblaze.com/-13,200,OK,Home 1-1,text,true,,9244,544,1,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,611,0,375
+1649997100807,501,https://www.demoblaze.com/-14,200,OK,Home 1-1,text,true,,15570,550,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,498,0,335
+1649997100888,417,https://www.demoblaze.com/-15,200,OK,Home 1-1,text,true,,2774,514,1,35,https://www.demoblaze.com/js/index.js,379,0,258
+1649997099321,2024,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-4,text,true,,451376,8474,15,35,https://www.demoblaze.com/index.html,512,0,195
+1649997099321,519,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-4,text,true,,5117,513,15,35,https://www.demoblaze.com/index.html,512,0,195
+1649997099854,434,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-4,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,434,0,295
+1649997099847,181,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-4,text,true,,28067,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,113,0,0
+1649997099859,425,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-4,text,true,,12461,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,392,0,278
+1649997099859,430,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-4,text,true,,1174,520,15,35,https://www.demoblaze.com/css/latofonts.css,430,0,295
+1649997099859,394,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-4,text,true,,859,520,15,35,https://www.demoblaze.com/css/latostyle.css,394,0,285
+1649997099859,400,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-4,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,393,0,277
+1649997100255,288,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-4,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,152,0,0
+1649997100259,317,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-4,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,143,0,0
+1649997100276,1069,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-4,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,940,0,775
+1649997100285,565,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-4,text,true,,36243,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,400,0,0
+1649997100289,714,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-4,text,true,,160183,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,178,0,0
+1649997100290,679,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-4,text,true,,72852,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,182,0,0
+1649997100543,392,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-4,text,true,,9578,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,392,0,0
+1649997100577,394,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-4,text,true,,15419,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,392,0,0
+1649997100850,370,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-4,text,true,,2959,514,15,35,https://www.demoblaze.com/js/index.js,370,0,0
+1649997101270,154,https://www.demoblaze.com/config.json,200,OK,Login_users 3-1,text,true,,622,429,1,35,https://www.demoblaze.com/config.json,154,0,0
+1649997099247,2203,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-2,text,true,,450860,8474,15,35,https://www.demoblaze.com/index.html,282,0,172
+1649997099247,296,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-2,text,true,,5014,513,15,35,https://www.demoblaze.com/index.html,282,0,172
+1649997099551,397,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-2,bin,true,,5500,514,15,35,https://www.demoblaze.com/favicon.ico,376,0,0
+1649997099551,395,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-2,text,true,,28434,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,0,198
+1649997099553,530,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-2,text,true,,12413,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,512,0,196
+1649997099553,520,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-2,text,true,,1283,520,15,35,https://www.demoblaze.com/css/latofonts.css,520,0,200
+1649997099555,532,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-2,text,true,,909,520,15,35,https://www.demoblaze.com/css/latostyle.css,531,0,201
+1649997099555,544,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-2,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,542,0,224
+1649997099950,458,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-2,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,339,0,208
+1649997100075,210,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-2,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,136,0,0
+1649997100090,524,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-2,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,342,0,0
+1649997100090,488,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-2,text,true,,35859,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,341,0,0
+1649997100101,938,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-2,text,true,,160286,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,363,0,0
+1649997100277,1173,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-2,text,true,,72681,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,940,0,786
+1649997100290,978,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-2,text,true,,9324,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,932,0,773
+1649997100431,603,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-2,text,true,,15360,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,576,0,0
+1649997100580,561,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-2,text,true,,2816,514,15,35,https://www.demoblaze.com/js/index.js,561,0,399
+1649997101347,142,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-4,text,true,,643,429,15,35,https://www.demoblaze.com/config.json,141,0,0
+1649997099036,2459,https://www.demoblaze.com/index.html,200,OK,Logout 7-1,text,true,,452459,8474,1,35,https://www.demoblaze.com/index.html,284,0,176
+1649997099036,291,https://www.demoblaze.com/index.html-0,200,OK,Logout 7-1,text,true,,5092,513,1,35,https://www.demoblaze.com/index.html,284,0,176
+1649997099352,341,https://www.demoblaze.com/index.html-1,200,OK,Logout 7-1,bin,true,,5500,514,1,35,https://www.demoblaze.com/favicon.ico,336,0,0
+1649997099360,640,https://www.demoblaze.com/index.html-2,200,OK,Logout 7-1,text,true,,28487,552,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,585,0,249
+1649997099355,562,https://www.demoblaze.com/index.html-3,200,OK,Logout 7-1,text,true,,12397,546,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,541,0,237
+1649997099358,347,https://www.demoblaze.com/index.html-4,200,OK,Logout 7-1,text,true,,1360,520,1,35,https://www.demoblaze.com/css/latofonts.css,347,0,244
+1649997099361,560,https://www.demoblaze.com/index.html-5,200,OK,Logout 7-1,text,true,,1106,520,1,35,https://www.demoblaze.com/css/latostyle.css,560,0,233
+1649997099357,356,https://www.demoblaze.com/index.html-6,200,OK,Logout 7-1,bin,true,,4263,509,1,35,https://www.demoblaze.com/bm.png,354,0,243
+1649997099694,370,https://www.demoblaze.com/index.html-7,200,OK,Logout 7-1,bin,true,,27679,515,1,35,https://www.demoblaze.com/Samsung1.jpg,314,0,0
+1649997099714,385,https://www.demoblaze.com/index.html-8,200,OK,Logout 7-1,bin,true,,34140,513,1,35,https://www.demoblaze.com/nexus1.jpg,306,0,0
+1649997099957,513,https://www.demoblaze.com/index.html-9,200,OK,Logout 7-1,bin,true,,34899,514,1,35,https://www.demoblaze.com/iphone1.jpg,387,0,0
+1649997099968,919,https://www.demoblaze.com/index.html-10,200,OK,Logout 7-1,text,true,,36319,541,1,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,582,0,216
+1649997099980,701,https://www.demoblaze.com/index.html-11,200,OK,Logout 7-1,text,true,,160300,542,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,335,0,195
+1649997100066,445,https://www.demoblaze.com/index.html-12,200,OK,Logout 7-1,text,true,,73317,567,1,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,335,0,0
+1649997100102,703,https://www.demoblaze.com/index.html-13,200,OK,Logout 7-1,text,true,,9281,544,1,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,702,0,275
+1649997100277,1218,https://www.demoblaze.com/index.html-14,200,OK,Logout 7-1,text,true,,15416,550,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,1212,0,1032
+1649997100477,450,https://www.demoblaze.com/index.html-15,200,OK,Logout 7-1,text,true,,2903,514,1,35,https://www.demoblaze.com/js/index.js,414,0,0
+1649997101220,353,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-8,text,true,,514,429,15,35,https://www.demoblaze.com/config.json,353,0,0
+1649997101451,138,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-2,text,true,,527,429,15,35,https://www.demoblaze.com/config.json,138,0,0
+1649997101270,346,https://www.demoblaze.com/config.json,200,OK,Add_to_cart 5-1,text,true,,523,429,1,35,https://www.demoblaze.com/config.json,346,0,229
+1649997101269,347,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-1,text,true,,642,429,15,35,https://www.demoblaze.com/config.json,347,0,0
+1649997101498,118,https://www.demoblaze.com/config.json,200,OK,Logout 7-1,text,true,,623,429,1,35,https://www.demoblaze.com/config.json,118,0,0
+1649997099740,1902,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-12,text,true,,451240,8474,15,35,https://www.demoblaze.com/index.html,326,0,210
+1649997099740,334,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-12,text,true,,5129,513,15,35,https://www.demoblaze.com/index.html,326,0,210
+1649997100118,853,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-12,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,567,0,351
+1649997100119,852,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-12,text,true,,28387,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,566,0,349
+1649997100115,144,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-12,text,true,,12357,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,123,0,0
+1649997100117,688,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-12,text,true,,1290,520,15,35,https://www.demoblaze.com/css/latofonts.css,603,0,355
+1649997100117,771,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-12,text,true,,985,520,15,35,https://www.demoblaze.com/css/latostyle.css,771,0,353
+1649997100119,460,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-12,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,459,0,256
+1649997100260,203,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-12,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,148,0,0
+1649997100473,212,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-12,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,176,0,0
+1649997100579,390,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-12,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,227,0,0
+1649997100686,243,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-12,text,true,,36017,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,202,0,0
+1649997100807,835,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-12,text,true,,160119,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,498,0,335
+1649997100889,613,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-12,text,true,,72702,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,418,0,269
+1649997100930,405,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-12,text,true,,9430,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,390,0,245
+1649997100970,172,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-12,text,true,,15504,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,153,0,0
+1649997100972,351,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-12,text,true,,2856,514,15,35,https://www.demoblaze.com/js/index.js,347,0,0
+1649997099658,2001,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-11,text,true,,466673,8474,15,35,https://www.demoblaze.com/index.html,293,0,177
+1649997099658,350,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-11,text,true,,19902,513,15,35,https://www.demoblaze.com/index.html,293,0,177
+1649997100109,469,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-11,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,468,0,266
+1649997100110,696,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-11,text,true,,28391,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,469,0,277
+1649997100087,134,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-11,text,true,,12175,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,124,0,0
+1649997100094,627,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-11,text,true,,1302,520,15,35,https://www.demoblaze.com/css/latofonts.css,626,0,377
+1649997100111,468,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-11,text,true,,1091,520,15,35,https://www.demoblaze.com/css/latostyle.css,468,0,267
+1649997100113,466,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-11,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,465,0,269
+1649997100222,619,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-11,bin,true,,27727,515,15,35,https://www.demoblaze.com/Samsung1.jpg,461,0,0
+1649997100579,833,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-11,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,728,0,579
+1649997100581,390,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-11,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,225,0,0
+1649997100581,482,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-11,text,true,,35748,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,391,0,0
+1649997100722,497,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-11,text,true,,160024,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,208,0,0
+1649997100807,852,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-11,text,true,,73587,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,688,0,337
+1649997100841,196,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-11,text,true,,9116,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,194,0,0
+1649997100973,597,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-11,text,true,,16017,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,458,0,294
+1649997101042,407,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-11,text,true,,2808,514,15,35,https://www.demoblaze.com/js/index.js,407,0,232
+1649997099362,2323,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-5,text,true,,451711,8474,15,35,https://www.demoblaze.com/index.html,556,0,239
+1649997099362,585,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-5,text,true,,5016,513,15,35,https://www.demoblaze.com/index.html,556,0,239
+1649997099950,123,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-5,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,115,0,0
+1649997099992,937,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-5,text,true,,28405,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,586,0,217
+1649997100005,342,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-5,text,true,,12446,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,311,0,190
+1649997100081,463,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-5,text,true,,1177,520,15,35,https://www.demoblaze.com/css/latofonts.css,463,0,270
+1649997100018,358,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-5,text,true,,1091,520,15,35,https://www.demoblaze.com/css/latostyle.css,358,0,195
+1649997099980,365,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-5,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,336,0,198
+1649997100074,929,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-5,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,611,0,394
+1649997100347,1338,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-5,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,1259,0,1143
+1649997100352,1236,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-5,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,1143,0,983
+1649997100387,734,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-5,text,true,,36156,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,585,0,383
+1649997100551,668,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-5,text,true,,159932,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,251,0,0
+1649997100934,639,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-5,text,true,,73107,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,479,0,288
+1649997101004,446,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-5,text,true,,9212,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,427,0,270
+1649997101121,184,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-5,text,true,,15737,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,183,0,0
+1649997101220,396,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-5,text,true,,2968,514,15,35,https://www.demoblaze.com/js/index.js,396,0,271
+1649997101310,389,https://www.demoblaze.com/config.json,200,OK,Home 1-1,text,true,,594,429,1,35,https://www.demoblaze.com/config.json,388,0,264
+1649997099950,1771,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-14,text,true,,465868,8474,15,35,https://www.demoblaze.com/index.html,365,0,211
+1649997099950,458,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-14,text,true,,19902,513,15,35,https://www.demoblaze.com/index.html,365,0,211
+1649997100427,228,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-14,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,223,0,0
+1649997100427,699,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-14,text,true,,28336,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,610,0,417
+1649997100433,606,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-14,text,true,,12394,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,602,0,414
+1649997100434,602,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-14,text,true,,1225,520,15,35,https://www.demoblaze.com/css/latofonts.css,601,0,411
+1649997100427,610,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-14,text,true,,1101,520,15,35,https://www.demoblaze.com/css/latostyle.css,610,0,417
+1649997100427,609,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-14,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,609,0,416
+1649997100656,272,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-14,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,231,0,0
+1649997100929,212,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-14,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,167,0,0
+1649997101039,532,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-14,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,410,0,230
+1649997101039,533,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-14,text,true,,35702,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,392,0,230
+1649997101040,681,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-14,text,true,,160434,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,448,0,269
+1649997101043,624,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-14,text,true,,72780,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,471,0,366
+1649997101127,140,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-14,text,true,,9181,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,139,0,0
+1649997101146,426,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-14,text,true,,15338,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,379,0,265
+1649997101276,365,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-14,text,true,,3011,514,15,35,https://www.demoblaze.com/js/index.js,365,0,250
+1649997099341,2404,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-6,text,true,,450705,8474,15,35,https://www.demoblaze.com/index.html,358,0,250
+1649997099341,364,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-6,text,true,,5202,513,15,35,https://www.demoblaze.com/index.html,358,0,250
+1649997099708,111,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-6,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,109,0,0
+1649997099712,352,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-6,text,true,,28323,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,283,0,174
+1649997099716,292,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-6,text,true,,12340,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,271,0,162
+1649997099714,321,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-6,text,true,,1195,520,15,35,https://www.demoblaze.com/css/latofonts.css,321,0,204
+1649997099716,539,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-6,text,true,,935,520,15,35,https://www.demoblaze.com/css/latostyle.css,539,0,208
+1649997099717,505,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-6,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,504,0,175
+1649997099819,688,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-6,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,531,0,181
+1649997100009,174,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-6,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,127,0,0
+1649997100036,185,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-6,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,123,0,0
+1649997100188,159,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-6,text,true,,35917,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,128,0,0
+1649997100222,921,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-6,text,true,,160368,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,391,0,0
+1649997100222,285,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-6,text,true,,72645,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,153,0,0
+1649997100258,426,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-6,text,true,,9101,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,422,0,0
+1649997100277,1468,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-6,text,true,,15297,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,1430,0,1311
+1649997100351,654,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-6,text,true,,2918,514,15,35,https://www.demoblaze.com/js/index.js,654,0,453
+1649997098517,2932,https://www.demoblaze.com/index.html,200,OK,Send_message 6-1,text,true,,451166,8474,1,35,https://www.demoblaze.com/index.html,717,0,400
+1649997098517,728,https://www.demoblaze.com/index.html-0,200,OK,Send_message 6-1,text,true,,4946,513,1,35,https://www.demoblaze.com/index.html,717,0,400
+1649997099360,321,https://www.demoblaze.com/index.html-1,200,OK,Send_message 6-1,bin,true,,5483,514,1,35,https://www.demoblaze.com/favicon.ico,316,0,0
+1649997099374,395,https://www.demoblaze.com/index.html-2,200,OK,Send_message 6-1,text,true,,28624,552,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,322,0,220
+1649997099361,585,https://www.demoblaze.com/index.html-3,200,OK,Send_message 6-1,text,true,,12427,546,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,558,0,237
+1649997099375,343,https://www.demoblaze.com/index.html-4,200,OK,Send_message 6-1,text,true,,1281,520,1,35,https://www.demoblaze.com/css/latofonts.css,339,0,230
+1649997099376,540,https://www.demoblaze.com/index.html-5,200,OK,Send_message 6-1,text,true,,1007,520,1,35,https://www.demoblaze.com/css/latostyle.css,539,0,216
+1649997099378,547,https://www.demoblaze.com/index.html-6,200,OK,Send_message 6-1,bin,true,,4263,509,1,35,https://www.demoblaze.com/bm.png,546,0,212
+1649997099684,380,https://www.demoblaze.com/index.html-7,200,OK,Send_message 6-1,bin,true,,27679,515,1,35,https://www.demoblaze.com/Samsung1.jpg,323,0,0
+1649997100001,514,https://www.demoblaze.com/index.html-8,200,OK,Send_message 6-1,bin,true,,34140,513,1,35,https://www.demoblaze.com/nexus1.jpg,346,0,0
+1649997099976,637,https://www.demoblaze.com/index.html-9,200,OK,Send_message 6-1,bin,true,,34955,514,1,35,https://www.demoblaze.com/iphone1.jpg,431,0,0
+1649997100061,829,https://www.demoblaze.com/index.html-10,200,OK,Send_message 6-1,text,true,,36339,541,1,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,790,0,0
+1649997100019,1063,https://www.demoblaze.com/index.html-11,200,OK,Send_message 6-1,text,true,,159798,542,1,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,745,0,0
+1649997100066,904,https://www.demoblaze.com/index.html-12,200,OK,Send_message 6-1,text,true,,72627,567,1,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,483,0,286
+1649997100282,941,https://www.demoblaze.com/index.html-13,200,OK,Send_message 6-1,text,true,,9308,544,1,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,940,0,0
+1649997100516,793,https://www.demoblaze.com/index.html-14,200,OK,Send_message 6-1,text,true,,15508,550,1,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,789,0,0
+1649997100615,834,https://www.demoblaze.com/index.html-15,200,OK,Send_message 6-1,text,true,,2781,514,1,35,https://www.demoblaze.com/js/index.js,834,0,659
+1649997099793,1957,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-13,text,true,,465787,8474,15,35,https://www.demoblaze.com/index.html,357,0,194
+1649997099793,412,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-13,text,true,,19902,513,15,35,https://www.demoblaze.com/index.html,357,0,194
+1649997100292,558,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-13,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,558,0,324
+1649997100214,592,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-13,text,true,,28696,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,399,0,0
+1649997100291,976,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-13,text,true,,12338,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,932,0,791
+1649997100233,531,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-13,text,true,,1274,520,15,35,https://www.demoblaze.com/css/latofonts.css,531,0,282
+1649997101642,108,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-12,text,true,,548,429,15,35,https://www.demoblaze.com/config.json,108,0,0
+1649997100291,977,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-13,text,true,,916,520,15,35,https://www.demoblaze.com/css/latostyle.css,977,0,792
+1649997100292,1196,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-13,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,1196,0,1017
+1649997100765,298,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-13,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,205,0,0
+1649997100807,616,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-13,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,498,0,337
+1649997100851,270,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-13,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,186,0,0
+1649997101064,203,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-13,text,true,,35849,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,152,0,0
+1649997101122,327,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-13,text,true,,160107,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,146,0,0
+1649997101275,475,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-13,text,true,,72768,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,366,0,251
+1649997101276,365,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-13,text,true,,9021,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,352,0,238
+1649997101276,421,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-13,text,true,,15598,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,402,0,251
+1649997101424,321,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-13,text,true,,2854,514,15,35,https://www.demoblaze.com/js/index.js,315,0,205
+1649997101660,109,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-11,text,true,,434,429,15,35,https://www.demoblaze.com/config.json,109,0,0
+1649997099986,1789,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-15,text,true,,467893,8474,15,35,https://www.demoblaze.com/index.html,329,0,190
+1649997101424,351,https://api.demoblaze.com/check,200,OK,Login_users 3-1,text,true,,298,431,1,35,https://api.demoblaze.com/check,351,0,0
+1649997099986,416,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-15,text,true,,19902,513,15,35,https://www.demoblaze.com/index.html,329,0,190
+1649997100417,590,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-15,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,590,0,387
+1649997100418,703,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-15,text,true,,28462,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,589,0,386
+1649997100410,389,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-15,text,true,,12326,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,205,0,0
+1649997100422,585,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-15,text,true,,1380,520,15,35,https://www.demoblaze.com/css/latofonts.css,585,0,382
+1649997100426,578,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-15,text,true,,996,520,15,35,https://www.demoblaze.com/css/latostyle.css,578,0,377
+1649997100428,788,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-15,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,788,0,380
+1649997100799,574,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-15,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,466,0,300
+1649997101004,262,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-15,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,140,0,0
+1649997101007,564,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-15,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,417,0,265
+1649997101008,302,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-15,text,true,,36215,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,148,0,0
+1649997101124,651,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-15,text,true,,160255,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,408,0,287
+1649997101222,366,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-15,text,true,,74145,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,188,0,0
+1649997101268,352,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-15,text,true,,9171,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,339,0,231
+1649997101310,192,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-15,text,true,,15657,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,179,0,0
+1649997101373,129,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-15,text,true,,2920,514,15,35,https://www.demoblaze.com/js/index.js,129,0,0
+1649997099434,2352,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-7,text,true,,452355,8474,15,35,https://www.demoblaze.com/index.html,484,0,172
+1649997099434,510,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-7,text,true,,5057,513,15,35,https://www.demoblaze.com/index.html,484,0,172
+1649997099951,334,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-7,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,334,0,203
+1649997099951,193,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-7,text,true,,28574,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,114,0,0
+1649997099952,393,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-7,text,true,,12514,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,362,0,209
+1649997099990,383,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-7,text,true,,1280,520,15,35,https://www.demoblaze.com/css/latofonts.css,383,0,220
+1649997100062,826,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-7,text,true,,911,520,15,35,https://www.demoblaze.com/css/latostyle.css,660,0,414
+1649997100063,657,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-7,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,622,0,406
+1649997100276,1510,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-7,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,1435,0,1312
+1649997100285,1087,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-7,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,933,0,797
+1649997100347,1065,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-7,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,918,0,752
+1649997100383,738,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-7,text,true,,36533,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,588,0,383
+1649997100722,542,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-7,text,true,,160485,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,212,0,0
+1649997100891,611,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-7,text,true,,72726,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,415,0,0
+1649997101122,465,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-7,text,true,,9432,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,450,0,311
+1649997101269,154,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-7,text,true,,15535,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,154,0,0
+1649997101372,124,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-7,text,true,,2844,514,15,35,https://www.demoblaze.com/js/index.js,124,0,0
+1649997099237,2554,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-3,text,true,,482354,8474,15,35,https://www.demoblaze.com/index.html,492,0,181
+1649997099237,540,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-3,text,true,,19902,513,15,35,https://www.demoblaze.com/index.html,492,0,181
+1649997099786,134,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-3,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,133,0,0
+1649997099786,398,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-3,text,true,,28360,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,318,0,200
+1649997099786,360,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-3,text,true,,12381,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,350,0,202
+1649997099787,321,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-3,text,true,,1314,520,15,35,https://www.demoblaze.com/css/latofonts.css,321,0,199
+1649997099787,358,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-3,text,true,,1007,520,15,35,https://www.demoblaze.com/css/latostyle.css,358,0,201
+1649997099787,559,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-3,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,559,0,201
+1649997099931,471,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-3,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,356,0,226
+1649997100109,826,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-3,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,355,0,0
+1649997100158,682,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-3,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,386,0,0
+1649997100163,843,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-3,text,true,,36078,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,380,0,0
+1649997100276,1515,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-3,text,true,,159911,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,1256,0,1135
+1649997100351,1351,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-3,text,true,,73247,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,1173,0,1060
+1649997100415,895,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-3,text,true,,25335,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,806,0,350
+1649997100845,459,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-3,text,true,,15534,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,419,0,0
+1649997100936,383,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-3,text,true,,2821,514,15,35,https://www.demoblaze.com/js/index.js,382,0,239
+1649997101686,108,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-5,text,true,,592,429,15,35,https://www.demoblaze.com/config.json,108,0,0
+1649997101725,107,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-14,text,true,,535,429,15,35,https://www.demoblaze.com/config.json,107,0,0
+1649997101489,356,https://api.demoblaze.com/check,200,OK,invalid_user 4-4,text,true,,298,431,15,35,https://api.demoblaze.com/check,356,0,0
+1649997101751,101,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-13,text,true,,536,429,15,35,https://www.demoblaze.com/config.json,100,0,0
+1649997099595,2258,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-10,text,true,,466261,8474,15,35,https://www.demoblaze.com/index.html,283,0,176
+1649997099595,353,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-10,text,true,,19902,513,15,35,https://www.demoblaze.com/index.html,283,0,176
+1649997100043,388,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-10,bin,true,,5483,514,15,35,https://www.demoblaze.com/favicon.ico,388,0,214
+1649997099993,935,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-10,text,true,,28607,552,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,586,0,217
+1649997099994,352,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-10,text,true,,12653,546,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,320,0,179
+1649997100050,334,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-10,text,true,,1280,520,15,35,https://www.demoblaze.com/css/latofonts.css,334,0,189
+1649997099961,355,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-10,text,true,,1000,520,15,35,https://www.demoblaze.com/css/latostyle.css,355,0,0
+1649997100060,320,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-10,bin,true,,4263,509,15,35,https://www.demoblaze.com/bm.png,318,0,176
+1649997100317,991,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-10,bin,true,,27679,515,15,35,https://www.demoblaze.com/Samsung1.jpg,854,0,721
+1649997100350,1503,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-10,bin,true,,34140,513,15,35,https://www.demoblaze.com/nexus1.jpg,1416,0,1312
+1649997100387,723,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-10,bin,true,,34899,514,15,35,https://www.demoblaze.com/iphone1.jpg,585,0,382
+1649997100385,739,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-10,text,true,,36173,541,15,35,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,588,0,385
+1649997100432,873,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-10,text,true,,159911,542,15,35,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,455,0,0
+1649997100936,636,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-10,text,true,,72844,567,15,35,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,474,0,284
+1649997101111,161,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-10,text,true,,9092,544,15,35,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,161,0,0
+1649997101126,182,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-10,text,true,,15344,550,15,35,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,179,0,0
+1649997101277,400,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-10,text,true,,2991,514,15,35,https://www.demoblaze.com/js/index.js,400,0,250
+1649997101750,110,https://www.demoblaze.com/config.json,200,OK,Send_message 6-1,text,true,,465,429,1,35,https://www.demoblaze.com/config.json,110,0,0
+1649997101776,103,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-15,text,true,,612,429,15,35,https://www.demoblaze.com/config.json,103,0,0
+1649997101787,118,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-7,text,true,,540,429,15,35,https://www.demoblaze.com/config.json,118,0,0
+1649997101792,117,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-3,text,true,,629,429,15,35,https://www.demoblaze.com/config.json,116,0,0
+1649997101589,324,https://api.demoblaze.com/check,200,OK,invalid_user 4-2,text,true,,298,431,15,35,https://api.demoblaze.com/check,324,0,0
+1649997101573,343,https://api.demoblaze.com/check,200,OK,invalid_user 4-8,text,true,,298,431,15,35,https://api.demoblaze.com/check,342,0,0
+1649997101617,338,https://api.demoblaze.com/check,200,OK,invalid_user 4-1,text,true,,298,431,15,35,https://api.demoblaze.com/check,338,0,0
+1649997101853,118,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-10,text,true,,456,429,15,35,https://www.demoblaze.com/config.json,118,0,0
+1649997101506,521,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-1,text,false,"Test failed: text expected to contain /""""/",257,450,15,35,https://api.demoblaze.com/signup,521,0,193
+1649997098505,521,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-1,,false,,257,450,15,35,null,521,3002,193
+1649997101746,300,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-6,text,true,,609,429,15,34,https://www.demoblaze.com/config.json,299,0,0
+1649997101529,523,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-2,text,false,"Test failed: text expected to contain /""""/",257,450,14,34,https://api.demoblaze.com/signup,523,0,198
+1649997098527,523,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-2,,false,,257,450,14,34,null,523,3003,198
+1649997101751,330,https://api.demoblaze.com/check,200,OK,invalid_user 4-12,text,true,,298,431,15,33,https://api.demoblaze.com/check,330,0,0
+1649997101769,325,https://api.demoblaze.com/check,200,OK,invalid_user 4-11,text,true,,298,431,15,33,https://api.demoblaze.com/check,325,0,0
+1649997101596,519,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-3,text,false,"Test failed: text expected to contain /""""/",257,450,13,33,https://api.demoblaze.com/signup,519,0,178
+1649997098593,519,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-3,,false,,257,450,13,33,null,519,3003,178
+1649997101617,511,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,32,https://api.demoblaze.com/check,511,0,174
+1649997101794,341,https://api.demoblaze.com/check,200,OK,invalid_user 4-5,text,true,,298,431,15,32,https://api.demoblaze.com/check,341,0,0
+1649997101832,384,https://api.demoblaze.com/check,200,OK,invalid_user 4-14,text,true,,298,431,15,32,https://api.demoblaze.com/check,384,0,0
+1649997101618,610,https://api.demoblaze.com/entries,200,OK,Logout 7-1,text,true,,2931,348,1,32,https://api.demoblaze.com/entries,610,0,187
+1649997101775,455,https://api.demoblaze.com/entries,200,OK,Login_users 3-1,text,true,,2931,348,1,32,https://api.demoblaze.com/entries,453,0,0
+1649997101852,455,https://api.demoblaze.com/check,200,OK,invalid_user 4-13,text,true,,298,431,15,32,https://api.demoblaze.com/check,455,0,0
+1649997101906,422,https://api.demoblaze.com/check,200,OK,invalid_user 4-7,text,true,,298,431,15,32,https://api.demoblaze.com/check,422,0,0
+1649997101667,661,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-4,text,false,"Test failed: text expected to contain /""""/",257,450,12,32,https://api.demoblaze.com/signup,661,0,184
+1649997098665,661,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-4,,false,,257,450,12,32,null,661,3003,184
+1649997101972,379,https://api.demoblaze.com/check,200,OK,invalid_user 4-10,text,true,,298,431,15,31,https://api.demoblaze.com/check,379,0,0
+1649997101811,540,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-6,text,false,"Test failed: text expected to contain /""""/",261,450,11,31,https://api.demoblaze.com/signup,540,0,163
+1649997098809,540,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-6,,false,,261,450,11,31,null,540,3003,163
+1649997101701,666,https://api.demoblaze.com/entries,200,OK,Home 1-1,text,true,,2931,348,1,30,https://api.demoblaze.com/entries,666,0,291
+1649997101909,511,https://api.demoblaze.com/check,200,OK,invalid_user 4-3,text,true,,298,431,15,30,https://api.demoblaze.com/check,511,0,0
+1649997101880,556,https://api.demoblaze.com/check,200,OK,invalid_user 4-15,text,true,,298,431,15,30,https://api.demoblaze.com/check,555,0,0
+1649997102082,372,https://api.demoblaze.com/entries,200,OK,invalid_user 4-12,text,true,,2931,348,15,30,https://api.demoblaze.com/entries,371,0,0
+1649997102095,372,https://api.demoblaze.com/entries,200,OK,invalid_user 4-11,text,true,,2931,348,15,30,https://api.demoblaze.com/entries,370,0,0
+1649997101970,517,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-8,text,false,"Test failed: text expected to contain /""""/",257,450,10,30,https://api.demoblaze.com/signup,517,0,176
+1649997098968,517,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-8,,false,,257,450,10,30,null,517,3002,176
+1649997101956,561,https://api.demoblaze.com/entries,200,OK,invalid_user 4-1,text,true,,2931,348,15,29,https://api.demoblaze.com/entries,559,0,0
+1649997101846,673,https://api.demoblaze.com/entries,200,OK,invalid_user 4-4,text,true,,2931,348,15,29,https://api.demoblaze.com/entries,671,0,0
+1649997101861,658,https://api.demoblaze.com/check,200,OK,Send_message 6-1,text,true,,298,431,1,29,https://api.demoblaze.com/check,658,0,176
+1649997101736,789,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-5,text,false,"Test failed: text expected to contain /""""/",257,450,9,29,https://api.demoblaze.com/signup,789,0,184
+1649997098735,789,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-5,,false,,257,450,9,29,null,789,3002,184
+1649997101914,614,https://api.demoblaze.com/entries,200,OK,invalid_user 4-2,text,true,,2931,348,15,28,https://api.demoblaze.com/entries,614,0,0
+1649997101916,613,https://api.demoblaze.com/entries,200,OK,invalid_user 4-8,text,true,,2931,348,15,28,https://api.demoblaze.com/entries,613,0,0
+1649997102025,518,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-9,text,false,"Test failed: text expected to contain /""""/",257,450,8,28,https://api.demoblaze.com/signup,518,0,182
+1649997099023,518,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-9,,false,,257,450,8,28,null,518,3003,182
+1649997099545,3041,https://www.demoblaze.com/index.html,200,OK,invalid_user 4-9,text,true,,773052,8474,15,27,https://www.demoblaze.com/index.html,295,0,189
+1649997099545,302,https://www.demoblaze.com/index.html-0,200,OK,invalid_user 4-9,text,true,,5191,513,15,27,https://www.demoblaze.com/index.html,295,0,189
+1649997099859,349,https://www.demoblaze.com/index.html-1,200,OK,invalid_user 4-9,bin,true,,5500,514,15,27,https://www.demoblaze.com/favicon.ico,349,0,0
+1649997099860,1072,https://www.demoblaze.com/index.html-2,200,OK,invalid_user 4-9,text,true,,28292,552,15,27,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,690,0,303
+1649997099861,424,https://www.demoblaze.com/index.html-3,200,OK,invalid_user 4-9,text,true,,12508,546,15,27,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,397,0,281
+1649997099860,392,https://www.demoblaze.com/index.html-4,200,OK,invalid_user 4-9,text,true,,1226,520,15,27,https://www.demoblaze.com/css/latofonts.css,391,0,276
+1649997099861,398,https://www.demoblaze.com/index.html-5,200,OK,invalid_user 4-9,text,true,,866,520,15,27,https://www.demoblaze.com/css/latostyle.css,393,0,277
+1649997099861,392,https://www.demoblaze.com/index.html-6,200,OK,invalid_user 4-9,bin,true,,4263,509,15,27,https://www.demoblaze.com/bm.png,391,0,278
+1649997100235,272,https://www.demoblaze.com/index.html-7,200,OK,invalid_user 4-9,bin,true,,27679,515,15,27,https://www.demoblaze.com/Samsung1.jpg,141,0,0
+1649997100255,293,https://www.demoblaze.com/index.html-8,200,OK,invalid_user 4-9,bin,true,,34140,513,15,27,https://www.demoblaze.com/nexus1.jpg,150,0,0
+1649997100254,551,https://www.demoblaze.com/index.html-9,200,OK,invalid_user 4-9,bin,true,,34899,514,15,27,https://www.demoblaze.com/iphone1.jpg,395,0,0
+1649997100260,742,https://www.demoblaze.com/index.html-10,200,OK,invalid_user 4-9,text,true,,36253,541,15,27,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,396,0,0
+1649997100290,2296,https://www.demoblaze.com/index.html-11,200,OK,invalid_user 4-9,text,true,,481323,542,15,27,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,1224,0,837
+1649997100509,800,https://www.demoblaze.com/index.html-12,200,OK,invalid_user 4-9,text,true,,73215,567,15,27,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,588,0,422
+1649997100551,174,https://www.demoblaze.com/index.html-13,200,OK,invalid_user 4-9,text,true,,9297,544,15,27,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,172,0,0
+1649997100725,396,https://www.demoblaze.com/index.html-14,200,OK,invalid_user 4-9,text,true,,15620,550,15,27,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,373,0,0
+1649997100807,499,https://www.demoblaze.com/index.html-15,200,OK,invalid_user 4-9,text,true,,2780,514,15,27,https://www.demoblaze.com/js/index.js,499,0,339
+1649997102232,361,https://hls.demoblaze.com/index.m3u8,200,OK,Login_users 3-1,text,true,,1266,351,1,27,https://hls.demoblaze.com/index.m3u8,361,0,315
+1649997102231,362,https://hls.demoblaze.com/index.m3u8,200,OK,Logout 7-1,text,true,,1266,351,1,27,https://hls.demoblaze.com/index.m3u8,362,0,316
+1649997102369,235,https://hls.demoblaze.com/index.m3u8,200,OK,Home 1-1,text,true,,1266,351,1,27,https://hls.demoblaze.com/index.m3u8,235,0,187
+1649997102047,567,https://api.demoblaze.com/check,200,OK,invalid_user 4-6,text,true,,298,431,15,27,https://api.demoblaze.com/check,567,0,0
+1649997102455,161,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-12,text,true,,1266,351,15,27,https://hls.demoblaze.com/index.m3u8,161,0,111
+1649997102129,487,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,494,408,1,27,https://api.demoblaze.com/view,487,0,0
+1649997101882,742,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-7,text,false,"Test failed: text expected to contain /""""/",257,450,7,27,https://api.demoblaze.com/signup,742,0,171
+1649997098880,742,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-7,,false,,257,450,7,27,null,742,3002,171
+1649997102470,159,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-11,text,true,,1266,351,15,26,https://hls.demoblaze.com/index.m3u8,159,0,110
+1649997102136,502,https://api.demoblaze.com/entries,200,OK,invalid_user 4-5,text,true,,2931,348,15,26,https://api.demoblaze.com/entries,502,0,0
+1649997102520,135,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-4,text,true,,1266,351,15,26,https://hls.demoblaze.com/index.m3u8,135,0,95
+1649997102531,149,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-2,text,true,,1266,351,15,26,https://hls.demoblaze.com/index.m3u8,149,0,102
+1649997102531,154,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-8,text,true,,1266,351,15,26,https://hls.demoblaze.com/index.m3u8,154,0,108
+1649997102586,106,https://www.demoblaze.com/config.json,200,OK,invalid_user 4-9,text,true,,523,429,15,26,https://www.demoblaze.com/config.json,106,0,0
+1649997102518,176,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-1,text,true,,1266,351,15,26,https://hls.demoblaze.com/index.m3u8,176,0,126
+1649997102097,622,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-10,text,false,"Test failed: text expected to contain /""""/",257,450,6,26,https://api.demoblaze.com/signup,622,0,171
+1649997099095,622,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-10,,false,,257,450,6,26,null,622,3002,171
+1649997102217,514,https://api.demoblaze.com/entries,200,OK,invalid_user 4-14,text,true,,2931,348,15,25,https://api.demoblaze.com/entries,510,0,0
+1649997102639,139,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-5,text,true,,1266,351,15,25,https://hls.demoblaze.com/index.m3u8,138,0,95
+1649997102617,164,https://hls.demoblaze.com/index.m3u8,200,OK,Add_to_cart 5-1,text,true,,1266,351,1,25,https://hls.demoblaze.com/index.m3u8,164,0,117
+1649997102238,577,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-12,text,false,"Test failed: text expected to contain /""""/",257,450,5,25,https://api.demoblaze.com/signup,577,0,168
+1649997099237,577,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-12,,false,,257,450,5,25,null,577,3002,168
+1649997102307,513,https://api.demoblaze.com/entries,200,OK,invalid_user 4-13,text,true,,2931,348,15,24,https://api.demoblaze.com/entries,510,0,0
+1649997102168,656,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-11,text,false,"Test failed: text expected to contain /""""/",257,450,4,24,https://api.demoblaze.com/signup,656,0,186
+1649997099165,656,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-11,,false,,257,450,4,24,null,656,3004,186
+1649997102354,473,https://api.demoblaze.com/entries,200,OK,invalid_user 4-10,text,true,,2931,348,15,23,https://api.demoblaze.com/entries,473,0,0
+1649997102328,507,https://api.demoblaze.com/entries,200,OK,invalid_user 4-7,text,true,,2931,348,15,23,https://api.demoblaze.com/entries,507,0,0
+1649997102731,136,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-14,text,true,,1266,351,15,23,https://hls.demoblaze.com/index.m3u8,136,0,97
+1649997102656,222,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-4,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,222,0,0
+1649997102685,193,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-8,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,193,0,0
+1649997102595,286,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Logout 7-1,text,true,,6073,365,1,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,286,0,0
+1649997102680,212,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-2,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,212,0,0
+1649997102595,297,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Login_users 3-1,text,true,,6073,365,1,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,297,0,0
+1649997102605,289,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Home 1-1,text,true,,6073,365,1,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,288,0,0
+1649997102778,116,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-5,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,116,0,0
+1649997102696,198,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-1,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,198,0,0
+1649997102782,113,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Add_to_cart 5-1,text,true,,6073,365,1,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,112,0,0
+1649997102616,281,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-12,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,281,0,0
+1649997102629,268,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-11,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,268,0,0
+1649997102868,38,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-14,text,true,,6073,365,15,23,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,37,0,0
+1649997102421,494,https://api.demoblaze.com/entries,200,OK,invalid_user 4-3,text,true,,2931,348,15,23,https://api.demoblaze.com/entries,493,0,0
+1649997102310,606,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-13,text,false,"Test failed: text expected to contain /""""/",257,450,3,23,https://api.demoblaze.com/signup,606,0,172
+1649997099309,606,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-13,,false,,257,450,3,23,null,606,3001,172
+1649997102436,491,https://api.demoblaze.com/entries,200,OK,invalid_user 4-15,text,true,,2931,348,15,22,https://api.demoblaze.com/entries,489,0,0
+1649997102391,542,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-14,text,false,"Test failed: text expected to contain /""""/",257,450,2,22,https://api.demoblaze.com/signup,542,0,165
+1649997099390,542,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-14,,false,,257,450,2,22,null,542,3002,165
+1649997102828,138,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-10,text,true,,1266,351,15,21,https://hls.demoblaze.com/index.m3u8,138,0,98
+1649997102821,156,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-13,text,true,,1266,351,15,21,https://hls.demoblaze.com/index.m3u8,156,0,109
+1649997102838,156,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-7,text,true,,1266,351,15,21,https://hls.demoblaze.com/index.m3u8,156,0,110
+1649997102967,42,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-10,text,true,,6073,365,15,21,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,41,0,0
+1649997102615,403,https://api.demoblaze.com/entries,200,OK,invalid_user 4-6,text,true,,2931,348,15,21,https://api.demoblaze.com/entries,401,0,0
+1649997102520,503,https://api.demoblaze.com/entries,200,OK,Send_message 6-1,text,true,,2931,348,1,21,https://api.demoblaze.com/entries,501,0,0
+1649997102978,45,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-13,text,true,,6073,365,15,21,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,44,0,0
+1649997102693,343,https://api.demoblaze.com/check,200,OK,invalid_user 4-9,text,true,,298,431,15,21,https://api.demoblaze.com/check,343,0,0
+1649997102995,49,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-7,text,true,,6073,365,15,21,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,47,0,0
+1649997102917,152,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-3,text,true,,1266,351,15,21,https://hls.demoblaze.com/index.m3u8,152,0,103
+1649997102929,154,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-15,text,true,,1266,351,15,21,https://hls.demoblaze.com/index.m3u8,154,0,110
+1649997102466,634,https://api.demoblaze.com/signup,200,OK,Signup_Users 2-15,text,false,"Test failed: text expected to contain /""""/",257,450,1,21,https://api.demoblaze.com/signup,634,0,167
+1649997099453,634,Sign_Up,,"Number of samples in transaction : 1, number of failing samples : 1",Signup_Users 2-15,,false,,257,450,1,21,null,634,3013,167
+1649997103070,47,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-3,text,true,,6073,365,15,20,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,47,0,0
+1649997103084,46,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-15,text,true,,6073,365,15,20,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,46,0,0
+1649997103019,196,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-6,text,true,,1266,351,15,20,https://hls.demoblaze.com/index.m3u8,195,0,117
+1649997103025,193,https://hls.demoblaze.com/index.m3u8,200,OK,Send_message 6-1,text,true,,1266,351,1,20,https://hls.demoblaze.com/index.m3u8,193,0,118
+1649997103215,77,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-6,text,true,,6073,365,15,20,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,77,0,0
+1649997103218,74,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Send_message 6-1,text,true,,6073,365,1,20,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,74,0,0
+1649997103037,343,https://api.demoblaze.com/entries,200,OK,invalid_user 4-9,text,true,,2931,348,15,20,https://api.demoblaze.com/entries,342,0,0
+1649997102895,592,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-5,text,true,,542958,368,15,20,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,284,0,0
+1649997098757,4724,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-5,,true,,1006082,11204,15,20,null,2648,7,511
+1649997102893,603,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-2,text,true,,542958,368,14,19,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,287,0,0
+1649997098570,4917,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-2,,true,,1005166,11202,14,19,null,2680,9,607
+1649997102893,621,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Login_users 3-1,text,true,,542958,368,1,18,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,320,0,0
+1649997102895,620,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Home 1-1,text,true,,542958,368,1,18,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,322,0,0
+1649997098456,5008,login,200,"Number of samples in transaction : 8, number of failing samples : 0",Login_users 3-1,,true,,1006388,11215,1,18,null,3230,51,882
+1649997098527,4979,Home,200,"Number of samples in transaction : 6, number of failing samples : 0",Home 1-1,,true,,1019211,10325,1,18,null,2654,9,1118
+1649997102895,620,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-1,text,true,,542958,368,13,18,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,318,0,0
+1649997098456,5006,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-1,,true,,1005670,11202,13,18,null,3030,53,709
+1649997102898,626,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-11,text,true,,542958,368,12,15,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,319,0,0
+1649997099147,4367,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-11,,true,,1020886,11202,12,15,null,2350,10,460
+1649997103045,480,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-7,text,true,,542958,368,12,15,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,169,0,0
+1649997098880,4635,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-7,,true,,1006674,11202,12,15,null,2454,11,485
+1649997102895,634,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Add_to_cart 5-1,text,true,,542958,368,1,13,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,318,0,0
+1649997102898,652,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-12,text,true,,542958,368,10,13,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,320,0,0
+1649997099231,4312,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-12,,true,,1005567,11204,10,13,null,2402,7,493
+1649997103117,436,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-3,text,true,,542958,368,9,12,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,100,0,0
+1649997098617,4925,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-3,,true,,1036762,11204,9,12,null,2525,12,572
+1649997103383,174,https://hls.demoblaze.com/index.m3u8,200,OK,invalid_user 4-9,text,true,,1266,351,8,11,https://hls.demoblaze.com/index.m3u8,174,0,126
+1649997103293,294,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Send_message 6-1,text,true,,542958,368,1,11,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,54,0,0
+1649997098513,4764,Send_message,200,"Number of samples in transaction : 7, number of failing samples : 0",Send_message 6-1,,true,,1005157,10766,1,11,null,2307,310,694
+1649997103558,50,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,invalid_user 4-9,text,true,,6073,365,8,10,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,49,0,0
+1649997103293,395,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-6,text,true,,542958,368,8,10,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,67,0,0
+1649997098813,4868,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-6,,true,,1005093,11204,8,10,null,2490,7,545
+1649997103530,388,https://api.demoblaze.com/addtocart,200,OK,Add_to_cart 5-1,text,true,,197,505,1,9,https://api.demoblaze.com/addtocart,388,0,0
+1649997102879,1044,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-4,text,true,,542958,368,7,9,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,757,0,0
+1649997098693,5222,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-4,,true,,1005798,11204,7,9,null,3420,8,503
+1649997103010,938,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-10,text,true,,542958,368,6,8,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,635,0,0
+1649997099079,4858,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-10,,true,,1020496,11202,6,8,null,2579,11,454
+1649997102907,1062,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-14,text,true,,542958,368,5,7,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,738,0,0
+1649997099355,4604,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-14,,true,,1020182,11204,5,7,null,2869,10,553
+1649997103024,989,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-13,text,true,,542958,368,4,6,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,614,0,0
+1649997099297,4709,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-13,,true,,1020102,11204,4,6,null,2729,8,475
+1649997103131,883,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-15,text,true,,542958,368,4,6,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,514,0,0
+1649997099431,4574,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-15,,true,,1022284,11204,4,6,null,2742,9,482
+1649997103608,420,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-9,text,true,,542958,368,2,4,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,63,0,0
+1649997102882,1146,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Logout 7-1,text,true,,542958,368,1,4,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,789,0,0
+1649997099019,5000,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-9,,true,,1327354,11202,2,4,null,1895,10,497
+1649997098521,4981,log_out,200,"Number of samples in transaction : 6, number of failing samples : 0",Logout 7-1,,true,,1006310,10335,1,4,null,2449,527,679
+1649997102879,1196,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,invalid_user 4-8,text,true,,542958,368,1,2,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,776,0,0
+1649997098949,5117,Invalid_login,200,"Number of samples in transaction : 8, number of failing samples : 0",invalid_user 4-8,,true,,1005036,11202,1,2,null,3220,9,464
+1649997108193,1149,https://www.demoblaze.com/index.html,200,OK,Add_to_cart 5-1,text,true,,121266,8749,1,1,https://www.demoblaze.com/index.html,304,0,0
+1649997108193,343,https://www.demoblaze.com/index.html-0,200,OK,Add_to_cart 5-1,text,true,,19902,513,1,1,https://www.demoblaze.com/index.html,304,0,0
+1649997108541,284,https://www.demoblaze.com/index.html-1,304,Not Modified,Add_to_cart 5-1,,true,,165,539,1,1,https://www.demoblaze.com/favicon.ico,0,0,179
+1649997108540,300,https://www.demoblaze.com/index.html-2,304,Not Modified,Add_to_cart 5-1,,true,,165,577,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,190
+1649997108540,104,https://www.demoblaze.com/index.html-3,304,Not Modified,Add_to_cart 5-1,,true,,165,571,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1649997108540,288,https://www.demoblaze.com/index.html-4,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latofonts.css,0,0,185
+1649997108540,292,https://www.demoblaze.com/index.html-5,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latostyle.css,0,0,185
+1649997108540,292,https://www.demoblaze.com/index.html-6,304,Not Modified,Add_to_cart 5-1,,true,,165,534,1,1,https://www.demoblaze.com/bm.png,0,0,185
+1649997108647,526,https://www.demoblaze.com/index.html-7,200,OK,Add_to_cart 5-1,bin,true,,27679,515,1,1,https://www.demoblaze.com/Samsung1.jpg,464,0,164
+1649997108827,381,https://www.demoblaze.com/index.html-8,200,OK,Add_to_cart 5-1,bin,true,,34140,513,1,1,https://www.demoblaze.com/nexus1.jpg,315,0,205
+1649997108828,380,https://www.demoblaze.com/index.html-9,200,OK,Add_to_cart 5-1,bin,true,,34899,514,1,1,https://www.demoblaze.com/iphone1.jpg,314,0,203
+1649997108834,508,https://www.demoblaze.com/index.html-10,304,Not Modified,Add_to_cart 5-1,,true,,165,566,1,1,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,201
+1649997108834,286,https://www.demoblaze.com/index.html-11,304,Not Modified,Add_to_cart 5-1,,true,,165,567,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,193
+1649997108842,283,https://www.demoblaze.com/index.html-12,304,Not Modified,Add_to_cart 5-1,,true,,165,592,1,1,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,185
+1649997109120,96,https://www.demoblaze.com/index.html-13,304,Not Modified,Add_to_cart 5-1,,true,,165,569,1,1,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1649997109125,112,https://www.demoblaze.com/index.html-14,304,Not Modified,Add_to_cart 5-1,,true,,165,575,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1649997109175,105,https://www.demoblaze.com/index.html-15,200,OK,Add_to_cart 5-1,text,true,,2831,514,1,1,https://www.demoblaze.com/js/index.js,103,0,0
+1649997109343,313,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997109657,360,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,360,0,0
+1649997110017,356,https://api.demoblaze.com/entries,200,OK,Add_to_cart 5-1,text,true,,2931,348,1,1,https://api.demoblaze.com/entries,356,0,0
+1649997110375,46,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,452,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997110422,49,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,264,466,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997110473,48,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,264,469,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997113174,1070,https://www.demoblaze.com/prod.html?idp_=5,200,OK,Add_to_cart 5-1,text,true,,24143,7237,1,1,https://www.demoblaze.com/prod.html?idp_=5,387,0,0
+1649997113174,443,https://www.demoblaze.com/prod.html?idp_=5-0,200,OK,Add_to_cart 5-1,text,true,,22089,519,1,1,https://www.demoblaze.com/prod.html?idp_=5,387,0,0
+1649997113622,307,https://www.demoblaze.com/prod.html?idp_=5-1,304,Not Modified,Add_to_cart 5-1,,true,,165,539,1,1,https://www.demoblaze.com/favicon.ico,0,0,0
+1649997113622,303,https://www.demoblaze.com/prod.html?idp_=5-2,304,Not Modified,Add_to_cart 5-1,,true,,165,577,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1649997113622,303,https://www.demoblaze.com/prod.html?idp_=5-3,304,Not Modified,Add_to_cart 5-1,,true,,165,571,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1649997113622,111,https://www.demoblaze.com/prod.html?idp_=5-4,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1649997113622,303,https://www.demoblaze.com/prod.html?idp_=5-5,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1649997113622,304,https://www.demoblaze.com/prod.html?idp_=5-6,304,Not Modified,Add_to_cart 5-1,,true,,165,534,1,1,https://www.demoblaze.com/bm.png,0,0,0
+1649997113734,93,https://www.demoblaze.com/prod.html?idp_=5-7,304,Not Modified,Add_to_cart 5-1,,true,,165,566,1,1,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1649997113827,295,https://www.demoblaze.com/prod.html?idp_=5-8,304,Not Modified,Add_to_cart 5-1,,true,,165,567,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1649997113925,307,https://www.demoblaze.com/prod.html?idp_=5-9,304,Not Modified,Add_to_cart 5-1,,true,,165,592,1,1,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1649997113925,319,https://www.demoblaze.com/prod.html?idp_=5-10,304,Not Modified,Add_to_cart 5-1,,true,,165,569,1,1,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1649997113925,305,https://www.demoblaze.com/prod.html?idp_=5-11,304,Not Modified,Add_to_cart 5-1,,true,,165,575,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1649997113926,318,https://www.demoblaze.com/prod.html?idp_=5-12,304,Not Modified,Add_to_cart 5-1,,true,,239,538,1,1,https://www.demoblaze.com/js/prod.js,0,0,0
+1649997114245,110,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997114356,328,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,328,0,0
+1649997114684,326,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,553,408,1,1,https://api.demoblaze.com/view,326,0,0
+1649997115011,55,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997115067,46,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997115114,45,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997115160,374,https://api.demoblaze.com/addtocart,200,OK,Add_to_cart 5-1,text,true,,197,505,1,1,https://api.demoblaze.com/addtocart,374,0,0
+1649997127156,109,https://www.demoblaze.com/index.html,304,Not Modified,Add_to_cart 5-1,,true,,165,538,1,1,https://www.demoblaze.com/index.html,0,0,0
+1649997127266,311,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997127578,322,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,322,0,0
+1649997127900,368,https://api.demoblaze.com/entries,200,OK,Add_to_cart 5-1,text,true,,2931,348,1,1,https://api.demoblaze.com/entries,366,0,0
+1649997128268,47,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997128316,47,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997128366,47,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997130736,941,https://www.demoblaze.com/prod.html?idp_=8,200,OK,Add_to_cart 5-1,text,true,,7505,7237,1,1,https://www.demoblaze.com/prod.html?idp_=8,311,0,0
+1649997130736,319,https://www.demoblaze.com/prod.html?idp_=8-0,200,OK,Add_to_cart 5-1,text,true,,5525,519,1,1,https://www.demoblaze.com/prod.html?idp_=8,311,0,0
+1649997131062,305,https://www.demoblaze.com/prod.html?idp_=8-1,304,Not Modified,Add_to_cart 5-1,,true,,165,539,1,1,https://www.demoblaze.com/favicon.ico,0,0,0
+1649997131062,308,https://www.demoblaze.com/prod.html?idp_=8-2,304,Not Modified,Add_to_cart 5-1,,true,,165,577,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1649997131062,314,https://www.demoblaze.com/prod.html?idp_=8-3,304,Not Modified,Add_to_cart 5-1,,true,,165,571,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1649997131063,108,https://www.demoblaze.com/prod.html?idp_=8-4,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1649997131062,102,https://www.demoblaze.com/prod.html?idp_=8-5,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1649997131065,317,https://www.demoblaze.com/prod.html?idp_=8-6,304,Not Modified,Add_to_cart 5-1,,true,,165,534,1,1,https://www.demoblaze.com/bm.png,0,0,0
+1649997131165,305,https://www.demoblaze.com/prod.html?idp_=8-7,304,Not Modified,Add_to_cart 5-1,,true,,165,566,1,1,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1649997131172,106,https://www.demoblaze.com/prod.html?idp_=8-8,304,Not Modified,Add_to_cart 5-1,,true,,165,567,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1649997131278,105,https://www.demoblaze.com/prod.html?idp_=8-9,304,Not Modified,Add_to_cart 5-1,,true,,165,592,1,1,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1649997131368,305,https://www.demoblaze.com/prod.html?idp_=8-10,304,Not Modified,Add_to_cart 5-1,,true,,165,569,1,1,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1649997131370,303,https://www.demoblaze.com/prod.html?idp_=8-11,304,Not Modified,Add_to_cart 5-1,,true,,165,575,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1649997131376,301,https://www.demoblaze.com/prod.html?idp_=8-12,304,Not Modified,Add_to_cart 5-1,,true,,165,538,1,1,https://www.demoblaze.com/js/prod.js,0,0,0
+1649997131678,315,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997131994,329,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,329,0,0
+1649997132324,337,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,546,408,1,1,https://api.demoblaze.com/view,337,0,0
+1649997132662,46,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997132709,45,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997132756,47,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997132804,373,https://api.demoblaze.com/addtocart,200,OK,Add_to_cart 5-1,text,true,,197,505,1,1,https://api.demoblaze.com/addtocart,373,0,0
+1649997134573,110,https://www.demoblaze.com/index.html,304,Not Modified,Add_to_cart 5-1,,true,,165,538,1,1,https://www.demoblaze.com/index.html,0,0,0
+1649997134684,316,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997135001,354,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,302,431,1,1,https://api.demoblaze.com/check,354,0,0
+1649997135356,357,https://api.demoblaze.com/entries,200,OK,Add_to_cart 5-1,text,true,,2931,348,1,1,https://api.demoblaze.com/entries,355,0,0
+1649997135714,46,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997135763,45,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997135808,47,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997098515,15025,Add_prooducts,200,"Number of samples in transaction : 45, number of failing samples : 0",Add_to_cart 5-1,,true,,1092837,47723,1,1,null,8297,22317,919
+1649997145135,1045,https://www.demoblaze.com/cart.html,200,OK,Add_to_cart 5-1,text,true,,20417,8320,1,1,https://www.demoblaze.com/cart.html,313,0,0
+1649997145135,317,https://www.demoblaze.com/cart.html-0,200,OK,Add_to_cart 5-1,text,true,,5984,512,1,1,https://www.demoblaze.com/cart.html,313,0,0
+1649997145456,329,https://www.demoblaze.com/cart.html-1,304,Not Modified,Add_to_cart 5-1,,true,,165,539,1,1,https://www.demoblaze.com/favicon.ico,0,0,0
+1649997145456,307,https://www.demoblaze.com/cart.html-2,304,Not Modified,Add_to_cart 5-1,,true,,165,577,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1649997145456,311,https://www.demoblaze.com/cart.html-3,200,OK,Add_to_cart 5-1,text,true,,3238,556,1,1,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,309,0,0
+1649997145456,111,https://www.demoblaze.com/cart.html-4,304,Not Modified,Add_to_cart 5-1,,true,,165,571,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1649997145456,310,https://www.demoblaze.com/cart.html-5,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1649997145456,111,https://www.demoblaze.com/cart.html-6,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1649997145568,524,https://www.demoblaze.com/cart.html-7,304,Not Modified,Add_to_cart 5-1,,true,,165,534,1,1,https://www.demoblaze.com/bm.png,0,0,200
+1649997145568,296,https://www.demoblaze.com/cart.html-8,304,Not Modified,Add_to_cart 5-1,,true,,165,566,1,1,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1649997145764,105,https://www.demoblaze.com/cart.html-9,304,Not Modified,Add_to_cart 5-1,,true,,165,567,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1649997145768,324,https://www.demoblaze.com/cart.html-10,304,Not Modified,Add_to_cart 5-1,,true,,165,592,1,1,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1649997145787,305,https://www.demoblaze.com/cart.html-11,304,Not Modified,Add_to_cart 5-1,,true,,165,569,1,1,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1649997145826,102,https://www.demoblaze.com/cart.html-12,304,Not Modified,Add_to_cart 5-1,,true,,165,575,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1649997145865,316,https://www.demoblaze.com/cart.html-13,200,OK,Add_to_cart 5-1,text,true,,6361,559,1,1,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,306,0,0
+1649997145870,306,https://www.demoblaze.com/cart.html-14,200,OK,Add_to_cart 5-1,text,true,,3019,513,1,1,https://www.demoblaze.com/js/cart.js,304,0,0
+1649997146182,118,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997146301,346,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,346,0,0
+1649997146648,368,https://api.demoblaze.com/viewcart,200,OK,Add_to_cart 5-1,text,true,,460,447,1,1,https://api.demoblaze.com/viewcart,368,0,0
+1649997147017,49,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997147068,46,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997147115,49,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997147165,329,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,553,405,1,1,https://api.demoblaze.com/view,329,0,0
+1649997147495,328,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,494,405,1,1,https://api.demoblaze.com/view,327,0,0
+1649997147823,358,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,546,405,1,1,https://api.demoblaze.com/view,357,0,0
+1649997148181,389,https://api.demoblaze.com/deleteitem,200,OK,Add_to_cart 5-1,text,true,,206,449,1,1,https://api.demoblaze.com/deleteitem,389,0,0
+1649997156338,1116,https://www.demoblaze.com/cart.html#,200,OK,Add_to_cart 5-1,text,true,,7987,8395,1,1,https://www.demoblaze.com/cart.html#,316,0,0
+1649997156338,319,https://www.demoblaze.com/cart.html#-0,200,OK,Add_to_cart 5-1,text,true,,5677,512,1,1,https://www.demoblaze.com/cart.html#,316,0,0
+1649997156662,302,https://www.demoblaze.com/cart.html#-1,304,Not Modified,Add_to_cart 5-1,,true,,165,539,1,1,https://www.demoblaze.com/favicon.ico,0,0,0
+1649997156662,306,https://www.demoblaze.com/cart.html#-2,304,Not Modified,Add_to_cart 5-1,,true,,165,577,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1649997156662,310,https://www.demoblaze.com/cart.html#-3,304,Not Modified,Add_to_cart 5-1,,true,,165,581,1,1,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1649997156662,302,https://www.demoblaze.com/cart.html#-4,304,Not Modified,Add_to_cart 5-1,,true,,165,571,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1649997156663,309,https://www.demoblaze.com/cart.html#-5,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1649997156664,118,https://www.demoblaze.com/cart.html#-6,304,Not Modified,Add_to_cart 5-1,,true,,165,545,1,1,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1649997156783,300,https://www.demoblaze.com/cart.html#-7,304,Not Modified,Add_to_cart 5-1,,true,,165,534,1,1,https://www.demoblaze.com/bm.png,0,0,0
+1649997156964,104,https://www.demoblaze.com/cart.html#-8,304,Not Modified,Add_to_cart 5-1,,true,,165,566,1,1,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1649997156964,488,https://www.demoblaze.com/cart.html#-9,304,Not Modified,Add_to_cart 5-1,,true,,165,567,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,181
+1649997156969,307,https://www.demoblaze.com/cart.html#-10,304,Not Modified,Add_to_cart 5-1,,true,,165,592,1,1,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1649997156972,482,https://www.demoblaze.com/cart.html#-11,304,Not Modified,Add_to_cart 5-1,,true,,165,569,1,1,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,177
+1649997156972,314,https://www.demoblaze.com/cart.html#-12,304,Not Modified,Add_to_cart 5-1,,true,,165,575,1,1,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1649997157068,309,https://www.demoblaze.com/cart.html#-13,304,Not Modified,Add_to_cart 5-1,,true,,165,584,1,1,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1649997157084,297,https://www.demoblaze.com/cart.html#-14,304,Not Modified,Add_to_cart 5-1,,true,,165,538,1,1,https://www.demoblaze.com/js/cart.js,0,0,0
+1649997157456,308,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997157765,332,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,332,0,0
+1649997158098,382,https://api.demoblaze.com/viewcart,200,OK,Add_to_cart 5-1,text,true,,382,447,1,1,https://api.demoblaze.com/viewcart,382,0,0
+1649997158481,49,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997158532,46,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997158580,48,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997158629,324,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,553,405,1,1,https://api.demoblaze.com/view,324,0,0
+1649997158953,337,https://api.demoblaze.com/view,200,OK,Add_to_cart 5-1,text,true,,494,405,1,1,https://api.demoblaze.com/view,337,0,0
+1649997159291,410,https://api.demoblaze.com/deletecart,200,OK,Add_to_cart 5-1,text,true,,206,425,1,1,https://api.demoblaze.com/deletecart,410,0,0
+1649997160268,308,https://www.demoblaze.com/index.html,304,Not Modified,Add_to_cart 5-1,,true,,165,538,1,1,https://www.demoblaze.com/index.html,0,0,0
+1649997160577,113,https://www.demoblaze.com/config.json,304,Not Modified,Add_to_cart 5-1,,true,,165,454,1,1,https://www.demoblaze.com/config.json,0,0,0
+1649997160691,333,https://api.demoblaze.com/check,200,OK,Add_to_cart 5-1,text,true,,298,431,1,1,https://api.demoblaze.com/check,333,0,0
+1649997161025,357,https://api.demoblaze.com/entries,200,OK,Add_to_cart 5-1,text,true,,2931,348,1,1,https://api.demoblaze.com/entries,356,0,0
+1649997161383,46,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,266,402,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1649997161431,47,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Add_to_cart 5-1,,true,,265,416,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1649997161479,46,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Add_to_cart 5-1,,true,,265,419,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1649997135856,8027,Cart,200,"Number of samples in transaction : 28, number of failing samples : 0",Add_to_cart 5-1,,true,,39171,27760,1,1,null,5219,17643,0
